@@ -1,0 +1,16 @@
+C:\Users\leoso\source\repos\app2_xamarin\app2_xamarin\app2_xamarin\bin\Debug\netstandard2.0\app2_xamarin.deps.json
+C:\Users\leoso\source\repos\app2_xamarin\app2_xamarin\app2_xamarin\bin\Debug\netstandard2.0\app2_xamarin.dll
+C:\Users\leoso\source\repos\app2_xamarin\app2_xamarin\app2_xamarin\bin\Debug\netstandard2.0\ref\app2_xamarin.dll
+C:\Users\leoso\source\repos\app2_xamarin\app2_xamarin\app2_xamarin\bin\Debug\netstandard2.0\app2_xamarin.pdb
+C:\Users\leoso\source\repos\app2_xamarin\app2_xamarin\app2_xamarin\obj\Debug\netstandard2.0\app2_xamarin.csproj.AssemblyReference.cache
+C:\Users\leoso\source\repos\app2_xamarin\app2_xamarin\app2_xamarin\obj\Debug\netstandard2.0\app2_xamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoso\source\repos\app2_xamarin\app2_xamarin\app2_xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\leoso\source\repos\app2_xamarin\app2_xamarin\app2_xamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\leoso\source\repos\app2_xamarin\app2_xamarin\app2_xamarin\obj\Debug\netstandard2.0\View\PersonaPage.xaml.g.cs
+C:\Users\leoso\source\repos\app2_xamarin\app2_xamarin\app2_xamarin\obj\Debug\netstandard2.0\app2_xamarin.AssemblyInfoInputs.cache
+C:\Users\leoso\source\repos\app2_xamarin\app2_xamarin\app2_xamarin\obj\Debug\netstandard2.0\app2_xamarin.AssemblyInfo.cs
+C:\Users\leoso\source\repos\app2_xamarin\app2_xamarin\app2_xamarin\obj\Debug\netstandard2.0\app2_xamarin.csproj.CoreCompileInputs.cache
+C:\Users\leoso\source\repos\app2_xamarin\app2_xamarin\app2_xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\leoso\source\repos\app2_xamarin\app2_xamarin\app2_xamarin\obj\Debug\netstandard2.0\app2_xamarin.dll
+C:\Users\leoso\source\repos\app2_xamarin\app2_xamarin\app2_xamarin\obj\Debug\netstandard2.0\refint\app2_xamarin.dll
+C:\Users\leoso\source\repos\app2_xamarin\app2_xamarin\app2_xamarin\obj\Debug\netstandard2.0\app2_xamarin.pdb
